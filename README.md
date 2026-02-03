@@ -21,12 +21,12 @@ resumos estruturados, glossário, e prompts reutilizáveis.
 
 ### 📘 Miniguia
 #1 - Visão Geral:
-- Juros compostos consistem no efeito de "juros sobre juros", onde os rendimentos são incorporados ao capital para o cálculo seguinte, gerando crescimento exponencial. Funcionam como uma "bola de neve" que acelera a riqueza em investimentos ou a ruína em dívidas de cartão de crédito e financiamentos. O tempo é o fator mais decisivo nesse processo, superando até o valor dos aportes iniciais.
+• Juros compostos consistem no efeito de "juros sobre juros", onde os rendimentos são incorporados ao capital para o cálculo seguinte, gerando crescimento exponencial. Funcionam como uma "bola de neve" que acelera a riqueza em investimentos ou a ruína em dívidas de cartão de crédito e financiamentos. O tempo é o fator mais decisivo nesse processo, superando até o valor dos aportes iniciais.
   
 #2 - Resumo Estruturado:
 DEFINIÇÃO:
-- Os juros compostos consistem na aplicação de juros sobre o capital inicial somado aos rendimentos acumulados de períodos anteriores, processo conhecido como "juros sobre juros",. Diferente do regime simples, esse modelo gera um crescimento exponencial onde o valor dos juros aumenta a cada período.
-- 
+• Os juros compostos consistem na aplicação de juros sobre o capital inicial somado aos rendimentos acumulados de períodos anteriores, processo conhecido como "juros sobre juros",. Diferente do regime simples, esse modelo gera um crescimento exponencial onde o valor dos juros aumenta a cada período.
+  
 APLICAÇÕES PRÁTICAS:
 • Investimentos: São o motor de acumulação em CDBs, Tesouro Direto, contas digitais e no reinvestimento de dividendos de ações.
 • Dívidas: Regem o custo de financiamentos, empréstimos pessoais e o crédito rotativo do cartão de crédito,.
@@ -84,9 +84,15 @@ Fontes de texto:
 - https://www.suno.com.br/artigos/c/financas-pessoais/
 
 ### 🖼️ Screenshots
-Imagens de consulta ao NotebookLM e de partes das respostas
-obtidas a partir dos prompts.
 
+### Visão geral do notebook
+![Visão geral](screenshots/visao-geral.png)
+
+### Exemplo de prompt com referências
+![Prompt e resposta](screenshots/02-prompt-resumo-com-referencias.png)
+
+### Nota de prompts reutilizáveis
+![Prompts reutilizáveis](screenshots/prompts-reutilizaveis.png)
 ---
 
 ## 🛠️ Ferramentas

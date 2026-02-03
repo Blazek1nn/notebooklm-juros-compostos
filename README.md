@@ -92,13 +92,14 @@ Fontes de texto:
 ### 🖼️ Screenshots
 
 ### Visão geral do notebook
-![Visão geral](screenshots/visao-geral.png)
+![Visão geral](screenshots/visão-geral.png)
 
-### Exemplo de prompt com referências
-![Prompt e resposta](screenshots/02-prompt-resumo-com-referencias.png)
+### Exemplo de Notas
+![Prompt e resposta](screenshots/Notas.png)
 
 ### Nota de prompts reutilizáveis
 ![Prompts reutilizáveis](screenshots/prompts-reutilizaveis.png)
+
 ---
 
 ## 🛠️ Ferramentas

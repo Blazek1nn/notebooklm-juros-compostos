@@ -95,7 +95,7 @@ Fontes de texto:
 ![Visão geral](screenshots/visão-geral.png)
 
 ### Exemplo de Notas
-![Prompt e resposta](screenshots/Notas.png)
+![Notas](screenshots/notas.png)
 
 ### Nota de prompts reutilizáveis
 ![Prompts reutilizáveis](screenshots/prompts-reutilizaveis.png)
